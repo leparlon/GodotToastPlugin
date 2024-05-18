@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.pgcn.toastplugin">
+
+    <application>
+        <meta-data
+            android:name="org.godotengine.plugin.v2.ToastPlugin"
+            android:value="com.pgcn.toastplugin.ToastPlugin" />
+    </application>
+
+</manifest>
